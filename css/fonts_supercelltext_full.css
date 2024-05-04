@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'SupercellText-Bold';
+	src: url('../fonts/supercelltext_w_bd_1.eot');
+	src: url('../fonts/supercelltext_w_bd_1.eot#iefix') format('embedded-opentype'),
+	url('../fonts/supercelltext_w_bd_1.woff2') format('woff2'),
+	url('../fonts/supercelltext_w_bd_1.woff') format('woff'),
+	url('../fonts/supercelltext_w_bd_1.ttf') format('truetype');
+}    
+@font-face {
+	font-family: 'SupercellText-Medium';
+	src: url('../fonts/supercelltext_w_md_1.eot');
+	src: url('../fonts/supercelltext_w_md_1.eot#iefix') format('embedded-opentype'),
+	url('../fonts/supercelltext_w_md_1.woff2') format('woff2'),
+	url('../fonts/supercelltext_w_md_1.woff') format('woff'),
+	url('../fonts/supercelltext_w_md_1.ttf') format('truetype');
+}    
+@font-face {
+	font-family: 'SupercellText-Regular';
+	src: url('../fonts/supercelltext_w_rg_1.eot');
+	src: url('../fonts/supercelltext_w_rg_1.eot#iefix') format('embedded-opentype'),
+	url('../fonts/supercelltext_w_rg_1.woff2') format('woff2'),
+	url('../fonts/supercelltext_w_rg_1.woff') format('woff'),
+	url('../fonts/supercelltext_w_rg_1.ttf') format('truetype');
+}    
